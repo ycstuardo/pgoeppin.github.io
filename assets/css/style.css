@@ -1,0 +1,35 @@
+nav{
+    background-color: #2b393f;
+}
+header {
+    background-color: #1c262a;
+}
+header img {
+    width:30%;
+}
+.about-me{
+    background-color: #b8c8cf;
+}
+.about-me .card{
+    background-color: #1c262a;
+}
+.skills{
+    background-color: #b8c8cf;
+}
+.portfolio {
+    background-color: #b8c8cf;
+}
+.portfolio .card{
+    background-color: #1c262a;
+}
+.portfolio .card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+}
+.contact-me{
+    background-color: #8ea7b3;
+}
+footer{
+    background-color: #1c262a;
+}
